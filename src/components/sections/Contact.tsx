@@ -319,7 +319,7 @@ export default function Contact() {
       initial="initial"
       animate="animate"
       exit="exit"
-      className="fixed inset-0 w-screen h-screen bg-[#0a0a0a] overflow-hidden z-40 flex items-center justify-center p-6 lg:p-12"
+      className="relative h-full w-full bg-[#0a0a0a] overflow-hidden z-40 flex items-center justify-center p-6 lg:p-12"
     >
       {/* Main Professional Container */}
       <div className="w-full max-w-6xl h-full max-h-[90vh] flex flex-col bg-white/5 border border-white/10 rounded-[2rem] overflow-hidden backdrop-blur-md">

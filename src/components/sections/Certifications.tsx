@@ -132,7 +132,7 @@ export default function Certifications() {
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
-      className="fixed inset-0 w-screen h-screen overflow-hidden bg-[var(--bg)]"
+      className="relative h-full w-full overflow-hidden bg-[var(--bg)]"
     >
       <div className="flex flex-col lg:flex-row h-full">
         {/* LEFT COLUMN: LIST & COUNTER */}

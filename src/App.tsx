@@ -57,7 +57,7 @@ function AppContent() {
           animate={{ opacity: 1 }}
           exit={{ opacity: 0 }}
           transition={{ duration: 0.5, ease: 'easeInOut' }}
-          style={{ position: 'fixed', inset: 0, zIndex: 1 }}
+          style={{ position: 'fixed', inset: 0, zIndex: 1, overflow: 'hidden' }}
         >
           <Routes location={location}>
             <Route path="/" element={<LoadingScreen />} />

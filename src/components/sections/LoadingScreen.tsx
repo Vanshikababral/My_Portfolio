@@ -28,7 +28,7 @@ export default function LoadingScreen() {
   };
 
   return (
-    <div className="relative w-screen h-screen bg-[var(--bg)] flex flex-col items-center justify-center gap-6 overflow-hidden">
+    <div className="relative h-full w-full bg-[var(--bg)] flex flex-col items-center justify-center gap-6 overflow-hidden">
       <style>
         {`
           @keyframes typing {

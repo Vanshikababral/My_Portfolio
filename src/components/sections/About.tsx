@@ -44,11 +44,10 @@ const itemVariants: Variants = {
 export default function About() {
   const containerRef = useRef(null);
   const { scrollYProgress } = useScroll({
-    target: containerRef,
-    offset: ["start end", "end start"]
+    container: containerRef
   });
 
-  const y = useTransform(scrollYProgress, [0, 1], [0, -100]);
+  const y = useTransform(scrollYProgress, [0, 1], [0, -200]);
 
   return (
     <motion.section
@@ -57,8 +56,7 @@ export default function About() {
       initial="initial"
       animate="enter"
       exit="exit"
-      className="fixed inset-0 bg-[#0a0a0a] overflow-y-auto overflow-x-hidden origin-center"
-      style={{ position: 'fixed' }} // Explicitly ensuring non-static position
+      className="relative h-full w-full bg-[#0a0a0a] overflow-y-auto overflow-x-hidden custom-scrollbar"
     >
       <div className="max-w-[1400px] mx-auto px-[6vw] py-[15vh] grid grid-cols-1 lg:grid-cols-[1.2fr_0.8fr] gap-[8vw] items-start">
 

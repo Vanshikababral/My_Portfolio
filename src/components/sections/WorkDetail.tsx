@@ -33,7 +33,7 @@ export default function WorkDetail() {
       initial="initial"
       animate="enter"
       exit="exit"
-      className="fixed inset-0 w-screen h-screen bg-[var(--bg)] overflow-hidden grid grid-cols-[1fr] lg:grid-cols-[60%_40%] px-[6vw] py-[10vh] gap-[6vw]"
+      className="relative h-full w-full bg-[var(--bg)] overflow-hidden grid grid-cols-[1fr] lg:grid-cols-[60%_40%] px-[6vw] py-[10vh] gap-[6vw]"
     >
       {/* Back Button */}
       <motion.button

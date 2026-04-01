@@ -49,7 +49,7 @@ export default function Journey() {
       initial="initial"
       animate="enter"
       exit="exit"
-      className="fixed inset-0 w-screen h-screen overflow-hidden grid grid-cols-1 lg:grid-cols-3 bg-transparent pt-[12vh] lg:pt-0"
+      className="relative h-full w-full overflow-hidden grid grid-cols-1 lg:grid-cols-3 bg-transparent pt-[12vh] lg:pt-0"
     >
       {/* Blinds Background */}
       {Array.from({ length: 8 }).map((_, i) => (

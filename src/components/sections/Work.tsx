@@ -33,7 +33,7 @@ export default function Work() {
       initial="initial"
       animate="enter"
       exit="exit"
-      className="fixed inset-0 w-screen h-screen flex overflow-hidden bg-[var(--bg)]"
+      className="relative h-full w-full flex overflow-hidden bg-[var(--bg)]"
     >
       {/* LEFT PANEL */}
       <motion.div

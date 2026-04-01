@@ -31,7 +31,7 @@ export default function Interests() {
       initial="initial"
       animate="enter"
       exit="exit"
-      className="fixed inset-0 w-full bg-[#0a0a0a] pt-32 pb-20 px-6 lg:px-12 overflow-y-auto custom-scrollbar relative"
+      className="relative h-full w-full bg-[#0a0a0a] pt-32 pb-20 px-6 lg:px-12 overflow-y-auto custom-scrollbar"
     >
       <div className="max-w-6xl mx-auto">
         <motion.div variants={cardVariants} className="mb-12">

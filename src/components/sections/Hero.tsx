@@ -99,7 +99,7 @@ export default function Hero() {
       initial="initial"
       animate="enter"
       exit="exit"
-      className="fixed inset-0 bg-[var(--bg)] overflow-hidden flex items-center justify-center"
+      className="relative h-full w-full bg-[var(--bg)] overflow-hidden flex items-center justify-center"
     >
       {/* Background Image with Rhombus Mask */}
       <motion.div

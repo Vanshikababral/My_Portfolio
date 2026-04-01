@@ -41,7 +41,7 @@ export default function EntryScreen() {
   };
 
   return (
-    <div className="relative w-screen h-screen bg-[var(--bg)] flex items-center justify-center overflow-hidden">
+    <div className="relative h-full w-full bg-[var(--bg)] flex items-center justify-center overflow-hidden">
       {/* START Word */}
       <motion.div
         ref={scope}
