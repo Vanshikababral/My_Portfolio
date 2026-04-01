@@ -1,0 +1,67 @@
+{
+  "stats": [
+    {
+      "val": "5+",
+      "lbl": "Projects",
+      "delay": "d2"
+    },
+    {
+      "val": "12+",
+      "lbl": "Tech Certs",
+      "delay": "d3"
+    },
+    {
+      "val": "02+",
+      "lbl": "Open Source",
+      "delay": "d4"
+    }
+  ],
+  "work": {
+    "title": "Online Exam Proctor",
+    "company": "Lovely Professional University",
+    "period": "Dec 2025 → Present",
+    "bullets": [
+      "Monitored remote exams enforcing academic integrity standards",
+      "Detected and reported malpractice using specialized proctoring software",
+      "Resolved technical issues ensuring smooth assessment conduct"
+    ]
+  },
+  "education": [
+    {
+      "date": "Aug 2023 → Present",
+      "institution": "Lovely Professional University",
+      "degree": "B.Tech – Computer Science & Engineering",
+      "badge": "B.Tech CSE",
+      "delay": "d2"
+    },
+    {
+      "date": "Apr 2022 – Mar 2023",
+      "institution": "Army Public School, Pathankot",
+      "degree": "Intermediate (Class XII)",
+      "badge": "92.6%",
+      "delay": "d3"
+    }
+  ],
+  "extracurriculars": [
+    {
+      "role": "Operations & Coordination",
+      "organization": "Division of Innovation and Entrepreneurship",
+      "department": "Department of Entrepreneurship and Startups",
+      "institution": "Lovely Professional University",
+      "delay": "d1"
+    },
+    {
+      "role": "Active Member",
+      "organization": "Hansini — Women-Led NGO",
+      "delay": "d2"
+    }
+  ],
+  "opensource": [
+    {
+      "repo": "hansini-website",
+      "description": "Official website for Hansini NGO — a women-led organization. Open-sourced to help other NGOs build their digital presence.",
+      "githubUrl": "https://github.com/Vanshikababral/hansini-website.git",
+      "delay": "d3"
+    }
+  ]
+}

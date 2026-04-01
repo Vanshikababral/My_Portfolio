@@ -1,0 +1,161 @@
+[
+  {
+    "id": "01",
+    "name": "Matrix",
+    "sub": "Store Management System",
+    "period": "Feb 2026 – Present",
+    "description": "A high-performance, decoupled full-stack retail management platform designed for modern inventory control.",
+    "problemSolved": "Small to medium retailers often struggle with opaque inventory data, leading to stockouts or over-ordering. Matrix provides a centralized 'Command Center' for real-time clarity.",
+    "features": [
+      "Real-time low-stock visualization using dynamic data charting.",
+      "Secure multi-role authentication (Admin/Staff) via JWT.",
+      "RESTful API architecture ensuring seamless communication between Django and React.",
+      "Automated multi-metric analytics for sales and inventory tracking."
+    ],
+    "techStack": [
+      "Django",
+      "PostgreSQL",
+      "React",
+      "Axios",
+      "JWT"
+    ],
+    "githubUrl": "https://github.com/Vanshikababral/Store-Management.git",
+    "snapshots": [
+      "/Matrix/matrix-matrix-1.png",
+      "/Matrix/matrix-2.png",
+      "/Matrix/matrix-3.png",
+      "/Matrix/matrix-4.png",
+      "/Matrix/matrix-5.png",
+      "/Matrix/matrix-6.png",
+      "/Matrix/matrix-7.png",
+      "/Matrix/matrix-8.png"
+    ],
+    "imageUrl": "/thumbnails/1.png"
+  },
+  {
+    "id": "02",
+    "name": "EduBoard",
+    "sub": "Virtual Whiteboard",
+    "period": "Sep – Dec 2025",
+    "description": "A collaborative real-time drawing and brainstorming tool built on the MERN stack.",
+    "problemSolved": "Remote collaboration often lacks the spontaneity of a physical whiteboard. EduBoard allows teams to visualize ideas together with zero lag.",
+    "features": [
+      "Sub-second data synchronization across multiple concurrent clients.",
+      "Scalable Node.js backend capable of handling multiple active 'rooms'.",
+      "Persistent canvas state allowing users to return to their drawings later.",
+      "Custom drawing toolkit including shapes, freehand, and clear-canvas functions."
+    ],
+    "techStack": [
+      "MongoDB",
+      "Express.js",
+      "Node.js",
+      "React"
+    ],
+    "githubUrl": "https://github.com/Vanshikababral/Virtual_Whiteboard_Eduboard.git",
+    "snapshots": [
+      "/EduBoard/eduboard-eduboard-1.png",
+      "/EduBoard/eduboard-2.png",
+      "/EduBoard/eduboard-3.png",
+      "/EduBoard/eduboard-4.png",
+      "/EduBoard/eduboard-5.png",
+      "/EduBoard/eduboard-6.png",
+      "/EduBoard/eduboard-7.png",
+      "/EduBoard/eduboard-8.png",
+      "/EduBoard/eduboard-9.png",
+      "/EduBoard/eduboard-10.png",
+      "/EduBoard/eduboard-11.png",
+      "/EduBoard/eduboard-12.png",
+      "/EduBoard/eduboard-13.png",
+      "/EduBoard/eduboard-14.png",
+      "/EduBoard/eduboard-15.png",
+      "/EduBoard/eduboard-16.png"
+    ],
+    "imageUrl": "/thumbnails/2.png"
+  },
+  {
+    "id": "03",
+    "name": "Hansini",
+    "sub": "NGO Web Platform",
+    "period": "Jun – Aug 2025",
+    "description": "A mission-driven web presence for the women-led NGO, Hansini.",
+    "problemSolved": "Grassroots organizations often lack the digital visibility to attract donors and volunteers. This platform provides a professional face to amplify their community impact.",
+    "features": [
+      "Dynamic 'Stories' section to highlight community success and outreach.",
+      "Optimized 'Join Us' forms to streamline volunteer onboarding.",
+      "Responsive UI/UX designed to build trust and professional credibility.",
+      "Fast-loading architecture using a unique Flask and Node.js hybrid approach."
+    ],
+    "techStack": [
+      "Flask",
+      "Node.js",
+      "React",
+      "Tailwind CSS"
+    ],
+    "githubUrl": "https://github.com/Vanshikababral/hansini-website.git",
+    "snapshots": [
+      "/Hansini/hansini-hansini-1.png",
+      "/Hansini/hansini-2.png",
+      "/Hansini/hansini-3.png",
+      "/Hansini/hansini-4.png",
+      "/Hansini/hansini-5.png",
+      "/Hansini/hansini-6.png",
+      "/Hansini/hansini-7.png",
+      "/Hansini/hansini-8.png"
+    ],
+    "imageUrl": "/thumbnails/3.png"
+  },
+  {
+    "id": "04",
+    "name": "Event Reminder",
+    "sub": "Event Management System",
+    "period": "2025",
+    "description": "A categorized event tracking system with a robust Java-based backend.",
+    "problemSolved": "Generic calendar apps can be cluttered. This system categorizes urgency and priority, helping users focus on what actually matters (Work vs. Personal).",
+    "features": [
+      "Custom-built HTTP server powered by Gradle for high-speed local processing.",
+      "Real-time polling system for group event decision making.",
+      "Dynamic priority tagging (Urgent, Work, Personal) with color-coded UI.",
+      "Persistent data storage with a lightweight, secure Java implementation."
+    ],
+    "techStack": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "Gradle"
+    ],
+    "githubUrl": "https://github.com/Vanshikababral/Event-Reminder-System.git",
+    "snapshots": [
+      "/EventReminder/eventreminder-eventreminder-1.png",
+      "/EventReminder/eventreminder-2.png",
+      "/EventReminder/eventreminder-3.png",
+      "/EventReminder/eventreminder-4.png",
+      "/EventReminder/eventreminder-5.png"
+    ],
+    "imageUrl": "/thumbnails/4.png"
+  },
+  {
+    "id": "05",
+    "name": "MedCenter",
+    "sub": "Healthcare & AI Assistant",
+    "period": "2025",
+    "description": "A comprehensive healthcare portal integrated with AI-driven patient support.",
+    "problemSolved": "Accessing medical information or 24/7 support is often difficult. MedCenter bridges this gap with an AI assistant and instant ambulance integration.",
+    "features": [
+      "AI-powered chatbot using Python for real-time patient symptom guidance.",
+      "Voice-to-text and Text-to-speech integration via Web Speech API.",
+      "Secure PHP-based authentication for patient and doctor department pages.",
+      "Real-time 24/7 ambulance notification and department management system."
+    ],
+    "techStack": [
+      "PHP",
+      "Tailwind CSS",
+      "JavaScript",
+      "Python",
+      "Web Speech API"
+    ],
+    "githubUrl": "https://github.com/MerazMz/customer_support_chatbot.git",
+    "snapshots": [],
+    "imageUrl": "/thumbnails/5.png"
+  }
+]

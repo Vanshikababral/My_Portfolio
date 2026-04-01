@@ -1,0 +1,42 @@
+{
+  "languages": [
+    "Java",
+    "Javascript",
+    "Python",
+    "C++",
+    "PHP"
+  ],
+  "frontend": [
+    "HTML",
+    "CSS",
+    "Tailwind CSS",
+    "Bootstrap"
+  ],
+  "backend": [
+    "Node.js",
+    "Express.js",
+    "PHP",
+    "Flask"
+  ],
+  "database": [
+    "MYSQL",
+    "MONGODB",
+    "POSTGRESQL"
+  ],
+  "tools": [
+    "Django",
+    "Laravel",
+    "Git and GitHub",
+    "Postman",
+    "VS Code",
+    "Cloudinary",
+    "Vercel",
+    "Render"
+  ],
+  "softSkills": [
+    "Problem Solving",
+    "Communication",
+    "Team Collaboration",
+    "Adaptability"
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Cloud Computing",
+    "platform": "NPTEL",
+    "link": "https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs107/Course/NPTEL25CS107S135870025110954455.pdf",
+    "pdf": "https://archive.nptel.ac.in/content/noc/NOC25/SEM2/Ecertificates/106/noc25-cs107/Course/NPTEL25CS107S135870025110954455.pdf"
+  },
+  {
+    "title": "DSA in Java",
+    "platform": "Cipher Schools",
+    "link": "https://www.cipherschools.com/certificate?id=67e3fb0045b2b98d0db4e726",
+    "pdf": "/Certificates/DSAinjava.pdf"
+  },
+  {
+    "title": "Git and GitHub",
+    "platform": "Cipher Schools",
+    "link": "https://www.cipherschools.com/certificate?id=680fb364438493edbbcc9b03",
+    "pdf": "/Certificates/git.pdf"
+  },
+  {
+    "title": "Computer Communications",
+    "platform": "Coursera",
+    "link": "https://coursera.org/verify/specialization/SQCBC7F5L54N",
+    "pdf": "/Certificates/computercommunications.pdf"
+  },
+  {
+    "title": "Digital Systems: From Logic Gates to Processors",
+    "platform": "Coursera",
+    "link": "https://coursera.org/verify/R59FEZ1L4V8V",
+    "pdf": "/Certificates/Digitalsystem.pdf"
+  },
+  {
+    "title": "Introduction to Hardware and Operating Systems",
+    "platform": "Coursera",
+    "link": "https://coursera.org/verify/EA3OMNO1B7S4",
+    "pdf": "/Certificates/introtoosandhardware.pdf"
+  },
+  {
+    "title": "Packet Switching Networks and Algorithms",
+    "platform": "Coursera",
+    "link": "https://coursera.org/verify/EA3OMNO1B7S4",
+    "pdf": "/Certificates/packet.pdf"
+  },
+  {
+    "title": "TCP/IP and Advanced Topics",
+    "platform": "Coursera",
+    "link": "https://coursera.org/verify/8WTS0P63MZ4P",
+    "pdf": "/Certificates/tcp-ip.pdf"
+  },
+  {
+    "title": "The Bits and Bytes of Computer Networking",
+    "platform": "Coursera",
+    "link": "https://coursera.org/verify/D0CQ3DPED1IV",
+    "pdf": "/Certificates/bitsandbytes.pdf"
+  },
+  {
+    "title": "Peer-to-Peer Protocols and Local Area Networks",
+    "platform": "Coursera",
+    "link": "https://coursera.org/verify/WTL5SQDP3KJZ",
+    "pdf": "/Certificates/peertopeer.pdf"
+  },
+  {
+    "title": "Fundamentals of Network Communication",
+    "platform": "Coursera",
+    "link": "https://coursera.org/verify/5CJJ5TTT6J1A",
+    "pdf": "/Certificates/fundamentalsofNC.pdf"
+  },
+  {
+    "title": "Communication in the 21st Century Workplace",
+    "platform": "Coursera",
+    "link": "https://coursera.org/verify/6B510QNTWN97",
+    "pdf": "/Certificates/communication.pdf"
+  }
+]

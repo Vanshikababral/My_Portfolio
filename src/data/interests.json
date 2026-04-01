@@ -1,0 +1,59 @@
+{
+  "tier1": {
+    "title": "Volleyball",
+    "syllable": "ball",
+    "badge": "State Level · U-19",
+    "ghost": "19",
+    "stats": [
+      {
+        "label": "Age Category",
+        "value": "U-19"
+      },
+      {
+        "label": "Competition Tier",
+        "value": "State Level"
+      },
+      {
+        "label": "Top Interest",
+        "value": "Competitive"
+      }
+    ],
+    "prompt": "Tell me more about your volleyball achievements and state-level experience."
+  },
+  "tier2": [
+    {
+      "title": "Badminton",
+      "subtitle": "Smashing precision & agility",
+      "label": "Sport",
+      "path": "M15 14l-2-2-3 3 5 5 3-3-3-3z M19 5l-1.5 1.5 1.5 1.5L20.5 6.5 19 5z",
+      "prompt": "How often do you play badminton and what do you enjoy most about it?"
+    },
+    {
+      "title": "Outdoor Sports",
+      "subtitle": "Nature, movement & endurance",
+      "label": "Lifestyle",
+      "path": "M13 18l-4-4-4 4M19 18l-4-4-4 4M12 6l-1 1 1 1 1-1-1-1z",
+      "prompt": "What kind of outdoor sports are you into lately?"
+    }
+  ],
+  "tier3": [
+    {
+      "title": "Sketching",
+      "subtitle": "Visual storytelling",
+      "path": "M12 19l7-7 3 3-7 7-3-3z M18 13l-1.5-1.5 1.5-1.5 1.5 1.5-1.5 1.5z",
+      "prompt": "Can I see some of your sketches or know what style you prefer?"
+    },
+    {
+      "title": "Crafting",
+      "subtitle": "Handmade creativity",
+      "path": "M6.5 11.5L8 10l3 3-1.5 1.5-3-3z M11.5 6.5L10 8l3 3 1.5-1.5-3-3z",
+      "prompt": "What's the last thing you crafted?"
+    },
+    {
+      "title": "Binge Watching",
+      "subtitle": "Cinema & narratives",
+      "path": "M21 7v10a2 2 0 01-2 2H5a2 2 0 01-2-2V7a2 2 0 012-2h14a2 2 0 012 2z M9 10l5 2-5 2V10z",
+      "prompt": "What's your current favorite series or movie?"
+    }
+  ]
+}
